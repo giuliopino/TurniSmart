@@ -1,0 +1,6 @@
+{
+  "name": "TurniOptima Pro - Workforce Scheduling & Windows Suite",
+  "description": "Pianificatore turni mensili con ottimizzazione matematica (Constraint Programming), esportazione fedele Excel (.xlsx) e Immagine HD (.jpeg), e generatore di codice sorgente Python Desktop per Windows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
